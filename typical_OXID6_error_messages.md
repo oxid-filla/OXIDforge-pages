@@ -88,4 +88,4 @@ FEHLER: (Demodaten)Probleme mit folgenden SQL Befehlen:
 
 ### Possible solutions
 
-* uncomment general collation settings in my.cfg
+* uncomment general collation settings in my.cnf
